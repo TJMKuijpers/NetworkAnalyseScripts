@@ -5,7 +5,7 @@
 import os
 import pandas as pd
 # Set the directory of the files
-pathToCommunities="E:/Phd Thesis/Chapter 4 subsection EGM/EGM/analyse paper/Genomic interaction network/Genomic interaction network files/Communities total network/"
+pathToCommunities=""
 os.chdir(pathToCommunities)
 
 # list the files in the directory
